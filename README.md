@@ -3,6 +3,7 @@
 Predicting Global Water Stress using Machine Learning (2000-2025)
 
 📌 Project Overview
+
 As a CSE AIML student, I developed this project to address the growing global water crisis. This system uses a Random Forest Classifier to analyze environmental and socioeconomic factors to predict water scarcity levels across different regions.
 
 The goal is to provide a data-driven framework that identifies "Critical" zones and enables intelligent resource management between surplus and deficit regions.
