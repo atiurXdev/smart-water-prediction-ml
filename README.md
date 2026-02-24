@@ -1,4 +1,5 @@
 🌍 Smart Water Scarcity Prediction System
+
 Predicting Global Water Stress using Machine Learning (2000-2025)
 
 📌 Project Overview
